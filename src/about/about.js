@@ -76,17 +76,12 @@ export default function About() {
     return(
 
         
-        // <div className="sec1main">
-        //     <h1 className="sec1head">Hi,</h1>
-        //     <h1 className="sec1head">I'm Ritesh Singh</h1>
-        // </div>
+       
         <div className={classes.main} >
-            {/* <hr></hr> */}
+            
             <Divider name="about" ></Divider>
           <Container maxWidth="sm">
-          {/* <TravelerEffect /> */}
-
-          {/* <ParticlesBg type="circle" bg={true} /> */}
+         
             <Typography className={classes.cardhead} component="h2" variant="h1" align="center" color="textPrimary" gutterBottom>
               About ME
             </Typography>
@@ -98,42 +93,7 @@ export default function About() {
             loves to do automation in today's Agile world.
             </Typography>
 
-            {/* <div className={classes.card} >
-            <div className={classes.carditem}>
             
-            </div>
-            <div>
-
-            <p>My name is Ritesh Singh. I am pursuing B.tech(CSE) from Lovely Professional University.
-            Tech Enthusiast, zeal for learning, and explore the new technologies,
-            loves to do automation in today's Agile world. 
-            </p>
-            </div>
-            </div> */}
-
-            {/* <Typography component="h1" variant="h2" align="left" color="textPrimary" gutterBottom>
-              I'm Ritesh Singh
-            </Typography> */}
-            
-            {/* <Typography variant="h5" align="center" color="textSecondary" paragraph>
-              Something short and leading about the collection below—its contents, the creator, etc.
-              Make it short and sweet, but not too short so folks don&apos;t simply skip over it
-              entirely.
-            </Typography> */}
-            {/* <div className>
-              <Grid container spacing={2} justify="left">
-                <Grid item>
-                  <Button variant="contained" color="primary">
-                    Contact
-                  </Button>
-                </Grid>
-                {/* <Grid item>
-                  <Button variant="outlined" color="primary">
-                    Secondary action
-                  </Button>
-                </Grid> */}
-              {/* </Grid> */}
-            {/* </div> */}
             <Divider name="skill"></Divider>
           </Container>
           

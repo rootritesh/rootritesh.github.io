@@ -66,9 +66,7 @@ export default function Contact() {
       </CardActions>
     </Card>
             </Typography>
-            {/* <Typography component="h1" variant="h2" align="left" color="textPrimary" gutterBottom>
-              I'm Ritesh Singh
-            </Typography> */}
+            
 
 
            </Container>
