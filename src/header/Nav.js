@@ -179,7 +179,7 @@ class ResAppBar extends Component{
               </Link></Typography></ListItem>
              </List>
              <ListItem key = {6} button divider><Typography  color="inherit" >
-             <a className="smallnav" href="https://drive.google.com/file/d/1Gwo8fwQvVUH356WdZIZyIfXo79GpbVYA/view?usp=sharing" color="white">Download CV
+             <a className="smallnav" href="https://drive.google.com/file/d/1pQr1ZSfsZHNl-w7SJXM05wm2NL7v8Nlz/view?usp=sharing" color="white">Download CV
             </a></Typography></ListItem>
              {/* <List>
           {['About', 'Projects', 'Contact', 'Download CV'].map((text, index) => (
@@ -222,7 +222,7 @@ class ResAppBar extends Component{
             </Link></Typography>
           <Typography className = {classes.padding} color="inherit" ><Link to="contact" spy={true} smooth={true} duration={500} delay={500}>Contact
             </Link></Typography>
-          <Typography className = {classes.padding} color="white" ><a className={classes.cv} href="https://drive.google.com/file/d/1Gwo8fwQvVUH356WdZIZyIfXo79GpbVYA/view?usp=sharing" color="white">Download CV
+          <Typography className = {classes.padding} color="white" ><a className={classes.cv} href="https://drive.google.com/file/d/1pQr1ZSfsZHNl-w7SJXM05wm2NL7v8Nlz/view?usp=sharing" color="white">Download CV
             </a></Typography>
         </Toolbar>
       </AppBar>
