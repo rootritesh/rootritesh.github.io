@@ -104,16 +104,9 @@ export default function Sec1() {
                 <SocialIcon className={classes.socialicon} url="https://medium.com/@rootritesh" />
                 <SocialIcon className={classes.socialicon} url="https://github.com/rootritesh" />
                 
-                  {/* <Button variant="contained" color="primary">
-                    Contact
-                  </Button> */}
-                  {/* <LinkedInIcon fontSize="large" color="primary"></LinkedInIcon> */}
+                 
                 </Grid>
-                {/* <Grid item>
-                  <Button variant="outlined" color="primary">
-                    Secondary action
-                  </Button>
-                </Grid> */}
+                
               </Grid>
             </div>
           </Container>
