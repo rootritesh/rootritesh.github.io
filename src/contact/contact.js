@@ -16,7 +16,7 @@ const useStyles = makeStyles((theme) => ({
   root: {
     maxWidth: 345,
     justifyContent: 'center',
-    margin: theme.spacing(5,10),
+    margin: theme.spacing(5,5),
   },
   heroButtons:{
     marginTop: theme.spacing(10),
