@@ -1,0 +1,11 @@
+.MuiTabs-flexContainer {
+    display: flex;
+    justify-content: center;
+}
+.MuiAccordionSummary-root{
+    transition: min-height 0ms cubic-bezier(0.0, 0, 0.0, 0) 0ms,background-color 0ms cubic-bezier(0.0, 0, 0.0, 0) 0ms;
+    transition-property: min-height, background-color;
+    transition-duration: 0ms, 0ms;
+    transition-timing-function: cubic-bezier(0.0, 0, 0.0, 0), cubic-bezier(0.0, 0, 0.0, 0);
+    transition-delay: 0ms, 0ms;
+}
