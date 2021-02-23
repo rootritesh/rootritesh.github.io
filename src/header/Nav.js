@@ -154,7 +154,7 @@ class ResAppBar extends Component{
             </Link></Typography>
           <Typography className = {classes.padding} color="inherit" ><Link to="contact" spy={true} smooth={true} duration={500} delay={500}>Contact
             </Link></Typography>
-          <Typography className = {classes.padding} color="white" ><a className={classes.cv} href="https://drive.google.com/file/d/1pQr1ZSfsZHNl-w7SJXM05wm2NL7v8Nlz/view?usp=sharing" color="white">Resume
+          <Typography className = {classes.padding} color="white" ><a className={classes.cv} href="https://drive.google.com/file/d/1pQr1ZSfsZHNl-w7SJXM05wm2NL7v8Nlz/view?usp=sharing" color="white">Resume 
             </a></Typography>
         </Toolbar>
       </AppBar>
