@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rootritesh/rootritesh.github.io/static/css/main.30953cd5.chunk.css",
+    "main.js": "/rootritesh/rootritesh.github.io/static/js/main.77bc64a9.chunk.js",
+    "main.js.map": "/rootritesh/rootritesh.github.io/static/js/main.77bc64a9.chunk.js.map",
+    "runtime-main.js": "/rootritesh/rootritesh.github.io/static/js/runtime-main.6b672a07.js",
+    "runtime-main.js.map": "/rootritesh/rootritesh.github.io/static/js/runtime-main.6b672a07.js.map",
+    "static/js/2.75793eb4.chunk.js": "/rootritesh/rootritesh.github.io/static/js/2.75793eb4.chunk.js",
+    "static/js/2.75793eb4.chunk.js.map": "/rootritesh/rootritesh.github.io/static/js/2.75793eb4.chunk.js.map",
+    "index.html": "/rootritesh/rootritesh.github.io/index.html",
+    "static/css/main.30953cd5.chunk.css.map": "/rootritesh/rootritesh.github.io/static/css/main.30953cd5.chunk.css.map",
+    "static/js/2.75793eb4.chunk.js.LICENSE.txt": "/rootritesh/rootritesh.github.io/static/js/2.75793eb4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rootritesh/rootritesh.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b672a07.js",
+    "static/js/2.75793eb4.chunk.js",
+    "static/css/main.30953cd5.chunk.css",
+    "static/js/main.77bc64a9.chunk.js"
+  ]
+}
