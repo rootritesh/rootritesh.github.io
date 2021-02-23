@@ -8,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Preview
 ![Preview](https://github.com/rootritesh/rootritesh.github.io/blob/master/preview/home.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
