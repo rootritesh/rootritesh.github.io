@@ -113,15 +113,7 @@ class ResAppBar extends Component{
              <ListItem key = {6} button divider><Typography  color="inherit" >
              <a className="smallnav" href="https://drive.google.com/file/d/1pQr1ZSfsZHNl-w7SJXM05wm2NL7v8Nlz/view?usp=sharing" color="white">Resume
             </a></Typography></ListItem>
-             {/* <List>
-          {['About', 'Projects', 'Contact', 'Download CV'].map((text, index) => (
-            <ListItem button key={text}>
              
-              <ListItemText primary={text} />
-            </ListItem>
-          ))}
-        </List> */}
-        
          </div>
        </SwipeableDrawer>
 
