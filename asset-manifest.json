@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rootritesh.github.io/static/css/main.30953cd5.chunk.css",
-    "main.js": "/rootritesh.github.io/static/js/main.223b2193.chunk.js",
-    "main.js.map": "/rootritesh.github.io/static/js/main.223b2193.chunk.js.map",
+    "main.js": "/rootritesh.github.io/static/js/main.d6dcfbb1.chunk.js",
+    "main.js.map": "/rootritesh.github.io/static/js/main.d6dcfbb1.chunk.js.map",
     "runtime-main.js": "/rootritesh.github.io/static/js/runtime-main.aa1b73d3.js",
     "runtime-main.js.map": "/rootritesh.github.io/static/js/runtime-main.aa1b73d3.js.map",
     "static/js/2.75793eb4.chunk.js": "/rootritesh.github.io/static/js/2.75793eb4.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.aa1b73d3.js",
     "static/js/2.75793eb4.chunk.js",
     "static/css/main.30953cd5.chunk.css",
-    "static/js/main.223b2193.chunk.js"
+    "static/js/main.d6dcfbb1.chunk.js"
   ]
 }
