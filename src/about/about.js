@@ -83,7 +83,7 @@ export default function About() {
           <Container maxWidth="sm">
          
             <Typography className={classes.cardhead} component="h2" variant="h1" align="center" color="textPrimary" gutterBottom>
-              About ME
+              About Me
             </Typography>
 
             <Typography variant="h6" align="center" color="textSecondary" paragraph>
