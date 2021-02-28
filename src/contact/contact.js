@@ -35,7 +35,7 @@ export default function Contact() {
 <>
     <div className ={classes.heroButtons}>
             
-          <Container maxWidth="xs" className={classes.heroButtons}>
+          <Container  name="contact" maxWidth="xs" className={classes.heroButtons}>
           {/* <TravelerEffect /> */}
 
           {/* <ParticlesBg type="circle" bg={true} /> */}

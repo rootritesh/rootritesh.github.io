@@ -563,7 +563,7 @@ export default function MediaCard() {
               </Grid>
         </Container>          
 
-      <Accordion name="contact">
+      <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel1a-content"
