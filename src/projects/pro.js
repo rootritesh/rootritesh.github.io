@@ -354,6 +354,38 @@ export default function MediaCard() {
                   </CardActions>
                 </Card>
               </Grid>
+               <Grid  xs={12} sm={6} md={4} className={classes.carditems}>
+                
+                <Card className={classes.card}>
+                  <CardMedia
+                    className={classes.cardMedia}
+                    image="https://miro.medium.com/max/700/1*ngscQeh1XfBTtlV8HYOSsw.png"
+                    title=""
+                  />
+                  <CardContent className={classes.cardContent}>
+                    <Typography gutterBottom variant="h5" component="h2">
+                    Configuring k8s Multi-Node cluster using Ansible
+                    </Typography>
+                    <Typography>
+                    Ansible Roles to Configure K8S Multi-Node Cluster over AWS Cloud.
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                  <Button href="https://rootritesh.medium.com/configuring-k8s-multi-node-cluster-using-ansible-167dcad714d8" variant="contained" color="primary" fullWidth>
+                      
+                    Learn More
+                     
+                    </Button>
+                    {/* <Button size="small" color="primary" justify="center">
+                      Learn more
+                    </Button> */}
+                    {/* <Button size="small" color="primary">
+                      Edit
+                    </Button> */}
+                  </CardActions>
+                </Card>
+              </Grid>
+              
 
               <Grid  xs={12} sm={6} md={4} className={classes.carditems}>
                 
