@@ -58,7 +58,7 @@ export default function Sec1() {
           padding: theme.spacing(6),
         },
         socialicon:{
-          margin: theme.spacing(1),
+          margin: theme.spacing(),
           // padding: theme.spacing(1),
         },
       }));
@@ -89,20 +89,14 @@ export default function Sec1() {
               I'm Ritesh Singh
             </Typography>
             
-            {/* <Typography variant="h5" align="center" color="textSecondary" paragraph>
-              Something short and leading about the collection below—its contents, the creator, etc.
-              Make it short and sweet, but not too short so folks don&apos;t simply skip over it
-              entirely.
-            </Typography> */}
-            <div className>
-              <Grid container spacing={2} justify="left">
+            
+            <div>
+              <Grid container spacing={0} justify="left">
                 <Grid item>
                 <SocialIcon className={classes.socialicon} url="https://www.linkedin.com/in/rootritesh/" />
                 <SocialIcon className={classes.socialicon} url="https://twitter.com/RiteshS07054000" />
-                <SocialIcon className={classes.socialicon} url="https://www.instagram.com/rootritesh/" />
-                <SocialIcon className={classes.socialicon} url="https://www.facebook.com/profile.php?id=100012287743272" />
-                <SocialIcon className={classes.socialicon} url="https://medium.com/@rootritesh" />
                 <SocialIcon className={classes.socialicon} url="https://github.com/rootritesh" />
+                <SocialIcon className={classes.socialicon} url="https://medium.com/@rootritesh" />
                 
                  
                 </Grid>
