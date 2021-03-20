@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/rootritesh.github.io/static/css/main.30953cd5.chunk.css",
-    "main.js": "/rootritesh.github.io/static/js/main.814fec39.chunk.js",
-    "main.js.map": "/rootritesh.github.io/static/js/main.814fec39.chunk.js.map",
+    "main.js": "/rootritesh.github.io/static/js/main.856e228c.chunk.js",
+    "main.js.map": "/rootritesh.github.io/static/js/main.856e228c.chunk.js.map",
     "runtime-main.js": "/rootritesh.github.io/static/js/runtime-main.aa1b73d3.js",
     "runtime-main.js.map": "/rootritesh.github.io/static/js/runtime-main.aa1b73d3.js.map",
-    "static/js/2.75793eb4.chunk.js": "/rootritesh.github.io/static/js/2.75793eb4.chunk.js",
-    "static/js/2.75793eb4.chunk.js.map": "/rootritesh.github.io/static/js/2.75793eb4.chunk.js.map",
+    "static/js/2.cc0ef72a.chunk.js": "/rootritesh.github.io/static/js/2.cc0ef72a.chunk.js",
+    "static/js/2.cc0ef72a.chunk.js.map": "/rootritesh.github.io/static/js/2.cc0ef72a.chunk.js.map",
     "index.html": "/rootritesh.github.io/index.html",
     "static/css/main.30953cd5.chunk.css.map": "/rootritesh.github.io/static/css/main.30953cd5.chunk.css.map",
-    "static/js/2.75793eb4.chunk.js.LICENSE.txt": "/rootritesh.github.io/static/js/2.75793eb4.chunk.js.LICENSE.txt",
+    "static/js/2.cc0ef72a.chunk.js.LICENSE.txt": "/rootritesh.github.io/static/js/2.cc0ef72a.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/rootritesh.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.aa1b73d3.js",
-    "static/js/2.75793eb4.chunk.js",
+    "static/js/2.cc0ef72a.chunk.js",
     "static/css/main.30953cd5.chunk.css",
-    "static/js/main.814fec39.chunk.js"
+    "static/js/main.856e228c.chunk.js"
   ]
 }
