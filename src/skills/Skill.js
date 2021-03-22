@@ -54,7 +54,7 @@ export default function Skill() {
         <div className={classes.butmain}>
         
         <Button className={classes.butmain} variant="outlined" color="primary">
-        DevOpsAL
+        DevOps
         </Button>
         <Button className={classes.butmain} variant="outlined" color="secondary">
         Hybrid-Mult-Cloud
