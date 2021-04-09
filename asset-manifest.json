@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rootritesh.github.io/static/css/main.5f31a06a.chunk.css",
-    "main.js": "/rootritesh.github.io/static/js/main.c07da29c.chunk.js",
-    "main.js.map": "/rootritesh.github.io/static/js/main.c07da29c.chunk.js.map",
-    "runtime-main.js": "/rootritesh.github.io/static/js/runtime-main.aa1b73d3.js",
-    "runtime-main.js.map": "/rootritesh.github.io/static/js/runtime-main.aa1b73d3.js.map",
-    "static/js/2.cc0ef72a.chunk.js": "/rootritesh.github.io/static/js/2.cc0ef72a.chunk.js",
-    "static/js/2.cc0ef72a.chunk.js.map": "/rootritesh.github.io/static/js/2.cc0ef72a.chunk.js.map",
-    "index.html": "/rootritesh.github.io/index.html",
-    "static/css/main.5f31a06a.chunk.css.map": "/rootritesh.github.io/static/css/main.5f31a06a.chunk.css.map",
-    "static/js/2.cc0ef72a.chunk.js.LICENSE.txt": "/rootritesh.github.io/static/js/2.cc0ef72a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/rootritesh.github.io/static/media/logo.6ce24c58.svg"
+    "main.css": "/rootritesh/rootritesh.github.io/static/css/main.5f31a06a.chunk.css",
+    "main.js": "/rootritesh/rootritesh.github.io/static/js/main.c07da29c.chunk.js",
+    "main.js.map": "/rootritesh/rootritesh.github.io/static/js/main.c07da29c.chunk.js.map",
+    "runtime-main.js": "/rootritesh/rootritesh.github.io/static/js/runtime-main.6b672a07.js",
+    "runtime-main.js.map": "/rootritesh/rootritesh.github.io/static/js/runtime-main.6b672a07.js.map",
+    "static/js/2.cc0ef72a.chunk.js": "/rootritesh/rootritesh.github.io/static/js/2.cc0ef72a.chunk.js",
+    "static/js/2.cc0ef72a.chunk.js.map": "/rootritesh/rootritesh.github.io/static/js/2.cc0ef72a.chunk.js.map",
+    "index.html": "/rootritesh/rootritesh.github.io/index.html",
+    "static/css/main.5f31a06a.chunk.css.map": "/rootritesh/rootritesh.github.io/static/css/main.5f31a06a.chunk.css.map",
+    "static/js/2.cc0ef72a.chunk.js.LICENSE.txt": "/rootritesh/rootritesh.github.io/static/js/2.cc0ef72a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rootritesh/rootritesh.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa1b73d3.js",
+    "static/js/runtime-main.6b672a07.js",
     "static/js/2.cc0ef72a.chunk.js",
     "static/css/main.5f31a06a.chunk.css",
     "static/js/main.c07da29c.chunk.js"
