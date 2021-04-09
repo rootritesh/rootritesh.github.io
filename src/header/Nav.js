@@ -110,9 +110,7 @@ class ResAppBar extends Component{
               Contact
               </Link></Typography></ListItem>
              </List>
-             {/* <ListItem key = {6} button divider><Typography  color="inherit" >
-             <a className="smallnav" href="https://drive.google.com/file/d/1pQr1ZSfsZHNl-w7SJXM05wm2NL7v8Nlz/view?usp=sharing" color="white">Resume
-            </a></Typography></ListItem> */}
+             
              
          </div>
        </SwipeableDrawer>
