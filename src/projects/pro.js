@@ -290,11 +290,43 @@ export default function MediaCard() {
                       Edit
                     </Button> */}
                   </CardActions>
-                </Card>
+                </Card> 
+              </Grid>
+              
+              <Grid  xs={12} sm={6} md={4} className={classes.carditems}>
                 
+                <Card className={classes.card}>
+                  <CardMedia
+                    className={classes.cardMedia}
+                    image="https://miro.medium.com/max/700/1*P_RzvYJlhO_EGnI8N63F9w.png"
+                    title=""
+                  />
+                  <CardContent className={classes.cardContent}>
+                    <Typography gutterBottom variant="h5" component="h2">
+                    K8s Multi-Node on Multi-Cloud
+                    </Typography>
+                    <Typography>
+                    Configure K8s Multi-Node Cluster on Multi-Cloud.
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                  <Button href="https://rootritesh.medium.com/k8s-multi-node-on-multi-cloud-9529e6258103" variant="contained" color="primary" fullWidth>
+                      
+                    Learn More
+                     
+                    </Button>
+                    {/* <Button size="small" color="primary" justify="center">
+                      Learn more
+                    </Button> */}
+                    {/* <Button size="small" color="primary">
+                      Edit
+                    </Button> */}
+                  </CardActions>
+                </Card>
+              </Grid>
+              
 
-               
-              </Grid><Grid  xs={12} sm={6} md={4} className={classes.carditems}>
+              <Grid  xs={12} sm={6} md={4} className={classes.carditems}>
                 
                 <Card className={classes.card}>
                   <CardMedia
@@ -323,6 +355,8 @@ export default function MediaCard() {
                   </CardActions>
                 </Card>
               </Grid>
+
+              
               <Grid  xs={12} sm={6} md={4} className={classes.carditems}>
                 
                 <Card className={classes.card}>
@@ -354,6 +388,7 @@ export default function MediaCard() {
                   </CardActions>
                 </Card>
               </Grid>
+              
                <Grid  xs={12} sm={6} md={4} className={classes.carditems}>
                 
                 <Card className={classes.card}>
@@ -585,11 +620,6 @@ export default function MediaCard() {
                   </CardActions>
                 </Card>
               </Grid>
-
-
-
-
-
 
 
               </Grid>
