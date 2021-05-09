@@ -362,7 +362,7 @@ export default function MediaCard() {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="https://media-exp1.licdn.com/dms/image/C5612AQELp3iQbnMHYg/article-cover_image-shrink_423_752/0/1593205957202?e=1619654400&v=beta&t=OuAFf0J6bnW0mMk_zOKLD1JBF5VhMOp1QoKyuHZ-MbQ"
+                    image="https://media-exp1.licdn.com/dms/image/C5612AQELp3iQbnMHYg/article-cover_image-shrink_600_2000/0/1593205957201?e=1626307200&v=beta&t=FZFizGCkMpUBsB89H7FnCwW3WJedHuSa-3t2za6Ojss"
                     title=""
                   />
                   <CardContent className={classes.cardContent}>
