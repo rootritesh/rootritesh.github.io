@@ -92,11 +92,14 @@ export default function Skill() {
         <Button className={classes.butmain} variant="outlined" color="">
         Amazon web services(AWS)
         </Button>
-        <Button className={classes.butmain} variant="outlined" color="">
-        python
-        </Button>
         <Button className={classes.butmain} variant="outlined" color="primary">
         Google Cloud Platform(GCP)
+        </Button>
+        <Button className={classes.butmain} variant="outlined" color="secondary">
+        Microsoft Azure
+        </Button>
+        <Button className={classes.butmain} variant="outlined" color="">
+        python
         </Button>
         <Button className={classes.butmain} variant="outlined" color="secondary">
         Hadoop

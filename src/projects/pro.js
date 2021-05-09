@@ -427,7 +427,7 @@ export default function MediaCard() {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="https://media-exp1.licdn.com/dms/image/C4E12AQEAhRPrPYdNBg/article-cover_image-shrink_423_752/0/1593592277072?e=1619654400&v=beta&t=GlmmRNGJc2k-NdwUYwzSiJSWF8piN5reGiuGuFVTVGM"
+                    image="https://media-exp1.licdn.com/dms/image/C4E12AQEAhRPrPYdNBg/article-cover_image-shrink_423_752/0/1593592277072?e=1626307200&v=beta&t=j-S7ldrf7OjKO9QD-kArntuEq1ROz0bnl16T3vai75k"
                     title=""
                   />
                   <CardContent className={classes.cardContent}>
