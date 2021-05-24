@@ -331,20 +331,23 @@ export default function MediaCard() {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="https://miro.medium.com/max/700/1*uIhF-56fRXNtw6HIRE5AYQ.png"
+                    image="https://miro.medium.com/max/2142/1*xtZU8rsNuDQpgw4KCWsUGQ.png"
                     title=""
                   />
                   <CardContent className={classes.cardContent}>
                     <Typography gutterBottom variant="h5" component="h2">
-                    AWS EKS
+                    Deploy web app on Azure App Service using Terraform
                     </Typography>
                     <Typography>
-                    Deploy Joomla + Mysql on AWS EKS.
+                    Write an Infrastructure as code using terraform, which automaticallyDeploy web app on Azure App Service
                     </Typography>
                   </CardContent>
                   <CardActions>
-                  <Button href="https://rootritesh.medium.com/eks-task-9bc836d11f10" variant="contained" color="primary" fullWidth> 
-                     Learn More
+                  <Button href="https://rootritesh.medium.com/deploy-web-app-on-azure-app-service-using-terraform-c8e0f57ce4d6" variant="contained" color="primary" fullWidth>
+                      
+
+                    Learn More
+                     
                     </Button>
                     {/* <Button size="small" color="primary" justify="center">
                       Learn more
@@ -494,23 +497,20 @@ export default function MediaCard() {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="https://miro.medium.com/max/1000/1*bwrCGzwCqygS3WedW9CukA.png"
+                    image="https://miro.medium.com/max/700/1*uIhF-56fRXNtw6HIRE5AYQ.png"
                     title=""
                   />
                   <CardContent className={classes.cardContent}>
                     <Typography gutterBottom variant="h5" component="h2">
-                    Deploy RDS(AWS) +Wordpress(Minikube) using Terraform
+                    AWS EKS
                     </Typography>
                     <Typography>
-                    Write an Infrastructure as code using terraform, which automatically deploy the Wordpress(k8s) + RDS 
+                    Deploy Joomla + Mysql on AWS EKS.
                     </Typography>
                   </CardContent>
                   <CardActions>
-                  <Button href="https://rootritesh.medium.com/deploy-rds-wordpress-on-minikube-using-terraform-c5592995fdbf" variant="contained" color="primary" fullWidth>
-                      
-
-                    Learn More
-                     
+                  <Button href="https://rootritesh.medium.com/eks-task-9bc836d11f10" variant="contained" color="primary" fullWidth> 
+                     Learn More
                     </Button>
                     {/* <Button size="small" color="primary" justify="center">
                       Learn more
@@ -720,19 +720,18 @@ export default function MediaCard() {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="https://miro.medium.com/max/700/1*65pAzrccK6TrULaPgOQ4Tw.png"
+                    image="https://miro.medium.com/max/1000/1*bwrCGzwCqygS3WedW9CukA.png"
                     title=""
                   />
                   <CardContent className={classes.cardContent}>
                     <Typography gutterBottom variant="h5" component="h2">
-                    Ansible config docker-ce in Redhat8
+                    Deploy RDS(AWS) +Wordpress(Minikube) using Terraform
                     </Typography>
                     <Typography>
-                    Write an Ansible PlayBook that does the following operations in the managed nodes......
-                    </Typography>
+                    Write an Infrastructure as code using terraform, which automatically deploy the Wordpress(k8s) + RDS      </Typography>
                   </CardContent>
                   <CardActions>
-                  <Button href="https://rootritesh.medium.com/ansible-config-docker-ce-in-redhat8-96e6bc198890" variant="contained" color="primary" fullWidth> 
+                  <Button href="https://rootritesh.medium.com/deploy-rds-wordpress-on-minikube-using-terraform-c5592995fdbf"  variant="contained" color="primary" fullWidth> 
                      Learn More
                     </Button>
                     {/* <Button size="small" color="primary" justify="center">
@@ -744,6 +743,9 @@ export default function MediaCard() {
                   </CardActions>
                 </Card>
               </Grid>
+
+
+              
               <Grid  xs={12} sm={6} md={4} className={classes.carditems}>
                 
                 <Card className={classes.card}>
@@ -781,7 +783,7 @@ export default function MediaCard() {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="https://miro.medium.com/max/1000/1*2K7WZCWjbyUHOBwzX2aAdQ.png"
+                    image="https://miro.medium.com/max/3840/1*2K7WZCWjbyUHOBwzX2aAdQ.png"
                     title=""
                   />
                   <CardContent className={classes.cardContent}>
