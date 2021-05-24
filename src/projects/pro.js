@@ -227,7 +227,7 @@ export default function MediaCard() {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="https://miro.medium.com/max/700/1*mzm4oPoNXarjoEUZ0ApUxg.png"
+                    image="./dev.png"
                     title=""
                   />
                   <CardContent className={classes.cardContent}>
