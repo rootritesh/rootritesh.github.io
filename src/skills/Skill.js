@@ -56,17 +56,20 @@ export default function Skill() {
         <Button className={classes.butmain} variant="outlined" color="primary">
         DevOps
         </Button>
-        <Button className={classes.butmain} variant="outlined" color="secondary">
-        Hybrid-Mult-Cloud
-        </Button>
+        {/* <Button className={classes.butmain} variant="outlined" color="secondary">
+        Hybrid-Multi-Cloud
+        </Button> */}
         <Button className={classes.butmain} variant="outlined" color="primary">
-        kubernetes
+        Kubernetes
         </Button>
         <Button className={classes.butmain} variant="outlined" color="">
         Terraform
         </Button>
         <Button className={classes.butmain} variant="outlined" color="primary">
         Jenkins
+        </Button>
+        <Button className={classes.butmain} variant="outlined" color="primary">
+        Circleci
         </Button>
         <Button className={classes.butmain} variant="outlined" color="secondary">
         Ansible
@@ -78,7 +81,7 @@ export default function Skill() {
         Grafana
         </Button>
         <Button className={classes.butmain} variant="outlined" color="primary">
-        prometheus
+        Prometheus
         </Button>
         <Button className={classes.butmain} variant="outlined" color="primary">
         Docker
@@ -92,9 +95,9 @@ export default function Skill() {
         <Button className={classes.butmain} variant="outlined" color="">
         Amazon web services(AWS)
         </Button>
-        <Button className={classes.butmain} variant="outlined" color="primary">
+        {/* <Button className={classes.butmain} variant="outlined" color="primary">
         Google Cloud Platform(GCP)
-        </Button>
+        </Button> */}
         <Button className={classes.butmain} variant="outlined" color="secondary">
         Microsoft Azure
         </Button>
