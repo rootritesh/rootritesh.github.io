@@ -97,7 +97,7 @@ export default function Sec1() {
                 <SocialIcon className={classes.socialicon} url="https://twitter.com/RiteshS07054000" />
                 <SocialIcon className={classes.socialicon} url="https://github.com/rootritesh" />
                 <SocialIcon className={classes.socialicon} url="https://medium.com/@rootritesh" />
-                <SocialIcon className={classes.socialicon} url="https://www.instagram.com/rootritesh/" />
+                {/* <SocialIcon className={classes.socialicon} url="https://www.instagram.com/rootritesh/" /> */}
                 
                  
                 </Grid>
