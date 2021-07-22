@@ -365,7 +365,7 @@ export default function MediaCard() {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="https://media-exp1.licdn.com/dms/image/C5612AQELp3iQbnMHYg/article-cover_image-shrink_600_2000/0/1593205957201?e=1626307200&v=beta&t=FZFizGCkMpUBsB89H7FnCwW3WJedHuSa-3t2za6Ojss"
+                    image="https://media-exp3.licdn.com/dms/image/C5612AQELp3iQbnMHYg/article-cover_image-shrink_423_752/0/1593205957202?e=1632355200&v=beta&t=F7gajrGBFy4EQLkNv8nQxhb9NJM7Kwj8w9PZXtt3Ez0"
                     title=""
                   />
                   <CardContent className={classes.cardContent}>
@@ -430,7 +430,7 @@ export default function MediaCard() {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="https://media-exp1.licdn.com/dms/image/C4E12AQEAhRPrPYdNBg/article-cover_image-shrink_423_752/0/1593592277072?e=1626307200&v=beta&t=j-S7ldrf7OjKO9QD-kArntuEq1ROz0bnl16T3vai75k"
+                    image="https://media-exp3.licdn.com/dms/image/C4E12AQEAhRPrPYdNBg/article-cover_image-shrink_423_752/0/1593592277072?e=1632355200&v=beta&t=Ny9LM5VAv37QrTa2H83g1xfvYeQ9mh7hfebFRTrHb1g"
                     title=""
                   />
                   <CardContent className={classes.cardContent}>
