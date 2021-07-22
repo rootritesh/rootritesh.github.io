@@ -88,9 +88,7 @@ export default function About() {
 
             <Typography variant="h6" align="center" color="textSecondary" paragraph>
 
-            My name is Ritesh Singh. I am pursuing B.tech(CSE) from Lovely Professional University.
-            Tech Enthusiast, zeal for learning, and explore the new technologies,
-            loves to do automation in today's Agile world.
+            I'm DevOps/Cloud Enthusiast, I have good Knowledge of DevOps Tools. I am pursuing B.tech(CSE) from Lovely Professional University. Tech Enthusiast, zeal for learning, and explore new technologies, loves to do automation in today's Agile world.
             </Typography>
 
             
