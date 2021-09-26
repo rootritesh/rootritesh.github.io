@@ -365,7 +365,7 @@ export default function MediaCard() {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="https://media-exp3.licdn.com/dms/image/C5612AQELp3iQbnMHYg/article-cover_image-shrink_423_752/0/1593205957202?e=1632355200&v=beta&t=F7gajrGBFy4EQLkNv8nQxhb9NJM7Kwj8w9PZXtt3Ez0"
+                    image="https://raw.githubusercontent.com/rootritesh/rootritesh.github.io/master/public/img/Jenkins_cluster.png"
                     title=""
                   />
                   <CardContent className={classes.cardContent}>
@@ -430,7 +430,7 @@ export default function MediaCard() {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="https://media-exp3.licdn.com/dms/image/C4E12AQEAhRPrPYdNBg/article-cover_image-shrink_423_752/0/1593592277072?e=1632355200&v=beta&t=Ny9LM5VAv37QrTa2H83g1xfvYeQ9mh7hfebFRTrHb1g"
+                    image="https://raw.githubusercontent.com/rootritesh/rootritesh.github.io/master/public/img/prom_graf.png"
                     title=""
                   />
                   <CardContent className={classes.cardContent}>
