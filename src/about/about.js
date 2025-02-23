@@ -88,8 +88,8 @@ export default function About() {
 
             <Typography variant="h6" align="center" color="textSecondary" paragraph>
 
-            I'm DevOps/Cloud Enthusiast, I have good Knowledge of DevOps Tools. I am pursuing B.tech(CSE) from Lovely Professional University. Tech Enthusiast, zeal for learning, and explore new technologies, loves to do automation in today's Agile world.
-            </Typography>
+            Experienced DevOps Engineer with a strong technical background in continuous integration/continuous deployment (CI/CD), 
+            infrastructure as code (IaC), and automated testing. Proficient in designing, implementing, and optimizing DevOps practices.            </Typography>
 
             
             <Divider name="skill"></Divider>
